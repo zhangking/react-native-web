@@ -36,7 +36,6 @@ rn-position:relative
 rn-textAlign:inherit
 rn-textDecoration:none"
   onResponderGrant={[Function]}
-  role="img"
   style={Object {}} />
 `;
 
@@ -78,7 +77,6 @@ rn-paddingLeft:0px
 rn-position:relative
 rn-textAlign:inherit
 rn-textDecoration:none"
-  role="img"
   style={Object {}} />
 `;
 
@@ -120,7 +118,6 @@ rn-paddingLeft:0px
 rn-position:relative
 rn-textAlign:inherit
 rn-textDecoration:none"
-  role="img"
   style={Object {}} />
 `;
 
@@ -161,7 +158,6 @@ rn-paddingLeft:0px
 rn-position:relative
 rn-textAlign:inherit
 rn-textDecoration:none"
-  role="img"
   style={Object {}}>
   <div
     className="unique" />
@@ -205,14 +201,26 @@ rn-paddingLeft:0px
 rn-position:relative
 rn-textAlign:inherit
 rn-textDecoration:none"
-  role="img"
   style={
     Object {
       "backgroundImage": "url(\"https://google.com/favicon.ico\")",
       "height": "20px",
       "width": "40px",
     }
-  } />
+  }>
+  <img
+    className="
+  rn-bottom:0px
+  rn-height:100%
+  rn-left:0px
+  rn-opacity:0
+  rn-position:absolute
+  rn-right:0px
+  rn-top:0px
+  rn-width:100%"
+    src="https://google.com/favicon.ico"
+    style={Object {}} />
+</div>
 `;
 
 exports[`components/Image prop "defaultSource" sets "height" and "width" styles if missing 1`] = `
@@ -252,14 +260,26 @@ rn-paddingLeft:0px
 rn-position:relative
 rn-textAlign:inherit
 rn-textDecoration:none"
-  role="img"
   style={
     Object {
       "backgroundImage": "url(\"https://google.com/favicon.ico\")",
       "height": "10px",
       "width": "20px",
     }
-  } />
+  }>
+  <img
+    className="
+  rn-bottom:0px
+  rn-height:100%
+  rn-left:0px
+  rn-opacity:0
+  rn-position:absolute
+  rn-right:0px
+  rn-top:0px
+  rn-width:100%"
+    src="https://google.com/favicon.ico"
+    style={Object {}} />
+</div>
 `;
 
 exports[`components/Image prop "defaultSource" sets background image when value is a string 1`] = `
@@ -299,12 +319,24 @@ rn-paddingLeft:0px
 rn-position:relative
 rn-textAlign:inherit
 rn-textDecoration:none"
-  role="img"
   style={
     Object {
       "backgroundImage": "url(\"https://google.com/favicon.ico\")",
     }
-  } />
+  }>
+  <img
+    className="
+  rn-bottom:0px
+  rn-height:100%
+  rn-left:0px
+  rn-opacity:0
+  rn-position:absolute
+  rn-right:0px
+  rn-top:0px
+  rn-width:100%"
+    src="https://google.com/favicon.ico"
+    style={Object {}} />
+</div>
 `;
 
 exports[`components/Image prop "defaultSource" sets background image when value is an object 1`] = `
@@ -344,12 +376,24 @@ rn-paddingLeft:0px
 rn-position:relative
 rn-textAlign:inherit
 rn-textDecoration:none"
-  role="img"
   style={
     Object {
       "backgroundImage": "url(\"https://google.com/favicon.ico\")",
     }
-  } />
+  }>
+  <img
+    className="
+  rn-bottom:0px
+  rn-height:100%
+  rn-left:0px
+  rn-opacity:0
+  rn-position:absolute
+  rn-right:0px
+  rn-top:0px
+  rn-width:100%"
+    src="https://google.com/favicon.ico"
+    style={Object {}} />
+</div>
 `;
 
 exports[`components/Image prop "resizeMode" value "contain" 1`] = `
@@ -389,7 +433,6 @@ rn-paddingLeft:0px
 rn-position:relative
 rn-textAlign:inherit
 rn-textDecoration:none"
-  role="img"
   style={Object {}} />
 `;
 
@@ -430,7 +473,6 @@ rn-paddingLeft:0px
 rn-position:relative
 rn-textAlign:inherit
 rn-textDecoration:none"
-  role="img"
   style={Object {}} />
 `;
 
@@ -471,7 +513,6 @@ rn-paddingLeft:0px
 rn-position:relative
 rn-textAlign:inherit
 rn-textDecoration:none"
-  role="img"
   style={Object {}} />
 `;
 
@@ -512,7 +553,6 @@ rn-paddingLeft:0px
 rn-position:relative
 rn-textAlign:inherit
 rn-textDecoration:none"
-  role="img"
   style={Object {}} />
 `;
 
@@ -553,7 +593,6 @@ rn-paddingLeft:0px
 rn-position:relative
 rn-textAlign:inherit
 rn-textDecoration:none"
-  role="img"
   style={Object {}} />
 `;
 
@@ -594,7 +633,6 @@ rn-paddingLeft:0px
 rn-position:relative
 rn-textAlign:inherit
 rn-textDecoration:none"
-  role="img"
   style={Object {}} />
 `;
 
@@ -636,7 +674,6 @@ rn-position:relative
 rn-textAlign:inherit
 rn-textDecoration:none"
   data-testid="testID"
-  role="img"
   style={Object {}} />
 `;
 
@@ -677,6 +714,5 @@ rn-paddingLeft:0px
 rn-position:relative
 rn-textAlign:inherit
 rn-textDecoration:none"
-  role="img"
   style={Object {}} />
 `;
